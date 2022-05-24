@@ -21,4 +21,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Apaixonada por tecnologia, busco integração nessa area para conseguir essa "mudança de profissão". 🚀🚀
+ “Mudando de profissão para área de tecnologia, da qual sempre fui apaixonada. Busco novas oportunidades para exercer tudo que venho aprendendo”. 🚀🚀
