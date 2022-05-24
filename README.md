@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou a Carolina Rocha ✌️
 
-[![linKedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![linKedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-rocha-418aa8105/)
 
 ![Carol GitHub stats](https://github-readme-stats.vercel.app/api?username=CaahRocha&show_icons=true&theme=gruvbox)
 
@@ -21,4 +21,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Apaixonada por tacnologia, busco integração nessa area e conseguir essa "mudança de profissão". 🚀🚀
+Apaixonada por tecnologia, busco integração nessa area e conseguir essa "mudança de profissão". 🚀🚀
